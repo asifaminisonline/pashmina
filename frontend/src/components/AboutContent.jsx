@@ -4,7 +4,7 @@ import Title from "./Title";
 const AboutSection = () => {
   return (
     <>
-      <Title title="ABOUT THIS APP" />
+      <Title title="PASHMINA DESIGN APP" />
       <p style={{textAlign:"left" , padding:"10px"}}>
         Welcome to the Pashmina Shawl Design Viewer, your exclusive portal to
         explore a wide variety of exquisite pashmina shawl designs. This app is
