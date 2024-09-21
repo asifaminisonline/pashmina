@@ -1,6 +1,6 @@
 import React from "react";
 import HomePageImageCarousel from "../components/HomePageImageCarousel";
-import AboutSection from "../components/aboutContent";
+import AboutSection from "../components/AboutContent";
 
 const HomePage = () => {
   return (
