@@ -27,7 +27,7 @@ const HomePageImageCarousel = () => {
         </div>
       </div>
       <div>
-        <img src="https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7989_result-600x800.webp" alt="Slide 1" />
+        <img src="https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7996_result.webp" alt="Slide 1" />
         <div className="carousel-text">
           <h2>Slide 1 Title</h2>
           <p>Some description text on the image.</p>
@@ -35,7 +35,7 @@ const HomePageImageCarousel = () => {
         </div>
       </div>
       <div>
-        <img src="https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7989_result-600x800.webp" alt="Slide 1" />
+        <img src="https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7867_result.webp" alt="Slide 1" />
         <div className="carousel-text">
           <h2>Slide 1 Title</h2>
           <p>Some description text on the image.</p>
