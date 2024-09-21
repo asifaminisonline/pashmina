@@ -1,0 +1,9 @@
+#root {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  overflow-x: hidden;
+}
