@@ -1,0 +1,8 @@
+const imageData = [
+  { src: 'https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7996_result.webp', alt: 'Shawl Design 1' },
+  { src: 'https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7996_result.webp', alt: 'Shawl Design 2' },
+  { src: 'https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7996_result.webp', alt: 'Shawl Design 3' },
+  { src: 'https://www.angadcreations.com/wp-content/uploads/2022/06/IMG_7996_result.webp', alt: 'Shawl Design 4' },
+];
+
+export default imageData;

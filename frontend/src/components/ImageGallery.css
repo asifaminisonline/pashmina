@@ -1,0 +1,21 @@
+/* ImageGallery.css */
+
+.gallery-card {
+    overflow: hidden;
+    border: none;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gallery-card:hover {
+    transform: scale(1.05); 
+  }
+  
+  .gallery-image {
+    object-fit: cover;
+    height: 200px; 
+  }
+  
+  .gallery-card .card-body {
+    padding: 10px;
+  }
+  
