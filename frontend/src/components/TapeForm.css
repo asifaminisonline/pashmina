@@ -14,7 +14,7 @@ body {
 .mwb-form-main-wrapper {
   font-family: 'Lato', sans-serif;
   line-height: 1.5;
-  padding: 20px;
+  padding: 20px 5px;
 }
 
 .mwb-form-main-container {
@@ -35,7 +35,7 @@ body {
   font-size: 30px;
   font-weight: 500;
   margin: 0 0 10px 0;
-  padding: 22px 15px;
+  padding: 22px 0px;
   text-align: center;
 }
 
@@ -141,7 +141,7 @@ body {
 /* Responsive design */
 @media (max-width: 600px) {
   .mwb-form-main-container {
-    padding: 10px;
+    padding: 0px;
   }
   .mwb-form-group {
     margin-bottom: 20px;
