@@ -22,6 +22,28 @@ const DesignPage = () => {
   return (
     <>
       <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
+      <h1>All Designs</h1>
       <div className="designs-container">
         {designs.map((design) => (
           <div key={design._id} className="design-card">
