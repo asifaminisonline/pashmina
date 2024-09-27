@@ -30,7 +30,7 @@ const TapeForm = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/tapes",
+        "https://pashmina-backend.vercel.app/api/tapes",
         formData,
         {
           headers: {

@@ -9,7 +9,7 @@ const DesignPage = () => {
   useEffect(() => {
     const fetchDesigns = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/tapes'); // Your API endpoint
+        const response = await axios.get('https://pashmina-backend.vercel.app/api/tapes'); // Your API endpoint
         setDesigns(response.data);
       } catch (error) {
         console.error('Error fetching designs', error);
