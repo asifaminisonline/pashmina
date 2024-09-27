@@ -4,6 +4,7 @@ import "./App.css";
 import HomePage from "./pages/HomePage";
 import TopNavbar from "./components/Navbar";
 import TapeForm from "./components/TapeForm";
+import DesignPage from "./components/DesignPage";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <TopNavbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/designs" element={<DesignPage />} />
         <Route path="/add-design" element={<TapeForm />} />
       </Routes>
     </Router>
