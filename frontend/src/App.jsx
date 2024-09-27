@@ -4,7 +4,7 @@ import "./App.css";
 import HomePage from "./pages/HomePage";
 import TopNavbar from "./components/Navbar";
 import TapeForm from "./components/TapeForm";
-import DesignPage from "./components/DesignPage";
+import DesignPage from "./pages/DesignPage";
 
 function App() {
   return (
